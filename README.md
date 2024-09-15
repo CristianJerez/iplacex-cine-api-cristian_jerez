@@ -1,2 +1,1 @@
-# iplacex-cine-api-cristian_jerez
- API REST cine con Express
+“API REST Express para administración de películas favoritas de empleados de IPLACEX”
